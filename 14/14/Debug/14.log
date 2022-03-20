@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\radio\OneDrive\Рабочий стол\Labs 14.03\14\14\Source.cpp(29,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Labs 14.03\14\14\Source.cpp(51,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\radio\OneDrive\Рабочий стол\Labs 14.03\14\14\Source.cpp(49): warning C4715: function_2: значение возвращается не при всех путях выполнения
+  14.vcxproj -> C:\Users\radio\OneDrive\Рабочий стол\Labs 14.03\14\Debug\14.exe
